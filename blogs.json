@@ -4,7 +4,8 @@
       "title": "What makes a cohort perfect?",
       "img": "/img/what_makes.jpeg",
       "slug": "what-makes-a-cohort-perfect",
-      "src": "/md/what-makes-a-cohort-perfect.md"
+      "src": "/md/what-makes-a-cohort-perfect.md",
+      "content": [{title: "Introduction to cohort-based learning", href: "introduction-to-cohort-based-learning"},{title: "Planning Your Cohort-Based Course", href: "planning-your-cohort-based-course"}]
     },
     {
       "title": "Crafting a cohesive course curriculum",
