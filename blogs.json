@@ -5,7 +5,53 @@
       "img": "/img/what_makes.jpeg",
       "slug": "what-makes-a-cohort-perfect",
       "src": "/md/what-makes-a-cohort-perfect.md",
-      "content": [{"title": "Introduction to cohort-based learning", "href": "introduction-to-cohort-based-learning"},{"title": "Planning Your Cohort-Based Course", "href": "planning-your-cohort-based-course"}]
+      "content": [ {
+    "title": "Introduction to Cohort-Based Learning",
+    "href": "#introduction",
+    "children": [
+      { "title": "1. Planning Your Cohort-Based Course", "href": "#planning" },
+      {
+        "title": "1.1 Defining Your Course",
+        "href": "#defining-course",
+        "children": [
+          { "title": "1.2 Setting Course Duration and Frequency", "href": "#setting-duration" },
+          { "title": "1.3 Curriculum Development", "href": "#curriculum-development" }
+        ]
+      },
+      { "title": "2. Designing Engaging Course Content", "href": "#designing-content" },
+      {
+        "title": "2.1 Diversify Learning Materials",
+        "href": "#diversify-materials",
+        "children": [
+          { "title": "2.2 Developing Interactive Assignments", "href": "#interactive-assignments" }
+        ]
+      },
+      { "title": "3. Fostering Active Engagement", "href": "#fostering-engagement" },
+      {
+        "title": "3.1 Live Sessions and Webinars",
+        "href": "#live-sessions",
+        "children": [
+          { "title": "3.2 Collaborative Learning", "href": "#collaborative-learning" },
+          { "title": "3.3 Office Hours and Personalized Support", "href": "#office-hours" }
+        ]
+      },
+      { "title": "4. Building a Strong Community", "href": "#building-community" },
+      {
+        "title": "4.1 Cultivating a Cohort Culture",
+        "href": "#cultivating-culture",
+        "children": [{ "title": "4.2 Networking Opportunities", "href": "#networking-opportunities" }]
+      },
+      {
+        "title": "5. Assessing and Iterating",
+        "href": "#assessing-iterating",
+        "children": [
+          { "title": "5.1 Continuous Assessment", "href": "#continuous-assessment" },
+          { "title": "5.2 Soliciting Feedback", "href": "#soliciting-feedback" },
+          { "title": "5.3 Iterating for Future Cohort", "href": "#iterating-for-future-cohort" }
+        ]
+      }
+    ]
+  },{ "title": "Conclusion", "href": "#conclusion" }]
     },
     {
       "title": "Crafting a cohesive course curriculum",
